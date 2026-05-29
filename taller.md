@@ -32,12 +32,12 @@ python --version
 
 | Fase | Actividad | Tiempo |
 |------|-----------|--------|
-| 0 | Introducción y conexión con data lifecycle | 15 min |
-| 1 | Exploración local del dataset | 15 min |
-| 2 | Entrenamiento + serving sin registry (Docker) | 25 min |
-| 3 | MLflow Registry y UI (Docker) | 25 min |
-| 4 | Inferencia vía REST API | 15 min |
-| 5 | Cierre y contextualización MLOps | 15 min |
+| 0 | Introducción y conexión con data lifecycle
+| 1 | Exploración local del dataset
+| 2 | Entrenamiento + serving sin registry (Docker)
+| 3 | MLflow Registry y UI (Docker)
+| 4 | Inferencia vía REST API
+| 5 | Cierre y contextualización MLOps
 
 ---
 
